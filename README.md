@@ -3,3 +3,4 @@
 "# prime_number_test" 
 "# prime_number_test" 
 "# fizz_buzz" 
+"# data_type_lab.py" 
